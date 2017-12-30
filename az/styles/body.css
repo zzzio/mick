@@ -1,0 +1,10 @@
+/* Header */
+
+header > span {
+ align: right;
+ font-family: 'Audiowide', sans-serif;
+}
+
+header > img {
+ align: left;
+}
